@@ -14,6 +14,7 @@
 .bg-blue {
   background: $blue;
   color: white;
+  padding: 30px;
 }
 .bg-yellow {
   background: $yellow;
@@ -30,4 +31,8 @@
 .bg-purple {
   background: $purple;
   color: white;
+}
+
+.text-center {
+  padding: 30px;
 }
